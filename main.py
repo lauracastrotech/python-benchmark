@@ -77,8 +77,7 @@ a_string.split()
 
 # Join a list of strings using .join?????????????
 # a_string.join(*)
-a_j = 'Hello','World'.join('*')
-print(f'{a_j=}')
+
 
 # Iterate over the string using range, printing out each character and the index
 for char in range(len(a_string)):
